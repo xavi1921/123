@@ -1,0 +1,70 @@
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.dll
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.dll
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.xml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.xml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignColors.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\Dragablz.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignColors.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\Dragablz.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\MaterialDesignColors.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\Dragablz.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\Dragablz.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\MaterialDesignColors.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Entidades\obj\Debug\Entidades.pdb

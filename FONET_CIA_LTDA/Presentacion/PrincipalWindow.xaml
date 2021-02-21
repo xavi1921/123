@@ -1,0 +1,66 @@
+﻿<Window x:Class="FONET_CIA_LTDA.Presentacion.PrincipalWindow"
+        Background="White"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        BorderBrush="DarkRed"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="FONET" Height="586" Width="851" WindowStartupLocation="CenterScreen" 
+        WindowStyle="ThreeDBorderWindow" BorderThickness="0" AllowsTransparency="False" 
+        MinHeight="286" MinWidth="660">
+    <Grid >
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="512*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0"  MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+            <materialDesign:ColorZone Mode="Light" Background="White" Height="55" BorderThickness="0" VerticalAlignment="Stretch" Margin="0,0,0,0">
+                <Grid HorizontalAlignment="Stretch"  Height="50" VerticalAlignment="Bottom" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="500*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="80"/>
+                    </Grid.ColumnDefinitions>
+                    <Label x:Name="lblTitulo" Foreground="Black" Content="CARGANDO..." Margin="10,0,0,0"  VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="24"  FontWeight="Normal"/>
+                    <Label x:Name="lblTipoUsuario"  Grid.Column="1" Content="0" Margin="0,0,0,0" Visibility="Hidden"  VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="20" Foreground="Black" FontWeight="Normal"/>
+                    
+                    <Label x:Name="lblUsuario"  Grid.Column="1" Content="usuario" Margin="0,0,0,0"  VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="20" Foreground="Black" FontWeight="Normal"/>
+                    <materialDesign:PackIcon Kind="User" Grid.Column="2" Margin="0,0,40,0"  Foreground="DarkRed" VerticalAlignment="Center" HorizontalAlignment="Right" Height="30" Width="30"/>
+                    <Button x:Name="cerrarSesion"  Grid.Column="2" Foreground="Transparent" VerticalAlignment="Center" HorizontalAlignment="Right" Height="30" Width="30" Cursor="Hand" Background="{x:Null}"  Click="CerrarSesion_Click" BorderBrush="{x:Null}"/>
+                    <materialDesign:PackIcon Kind="Shutdown" Grid.Column="2" Margin="0,0,5,0" IsHitTestVisible="False" Foreground="DarkRed" VerticalAlignment="Center" HorizontalAlignment="Right" Height="30" Width="30" Cursor="Hand"/>
+                </Grid>
+                
+            </materialDesign:ColorZone>
+        </Grid>
+        
+        <Frame x:Name="frame1" Padding="0" BorderThickness="0" Content="" Source="/FONET_CIA_LTDA;component/Presentacion/AdminPage.xaml"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"   NavigationUIVisibility="Hidden"  Grid.Row="2" FrameworkContentElement.Loaded="Frame1_Loaded" Background="White"/>
+        
+        <materialDesign:DialogHost IsOpen="false" x:Name="salir" Grid.RowSpan="3" BorderThickness="0">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Margin="20" Orientation="Vertical">
+                    <TextBlock Text="¿Desea cerrar sesión?"/>
+                    <Button x:Name="btnCerrar" IsEnabled="True" Content ="Si" Width="90" Margin="0,20,0,0" Click="BtnCerrar_Click" Background="DarkRed" Foreground="Yellow"/>
+                    <Button x:Name="btnNoCerrar" IsEnabled="True" Content ="NO" Width="90" Margin="0,20,0,0" Click="BtnNoCerrar_Click" Background="White" Foreground="DarkRed"/>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+
+        <materialDesign:DialogHost IsOpen="False" x:Name="cargando" Grid.RowSpan="3" BorderThickness="0">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Margin="20" Orientation="Vertical">
+                    <TextBlock Text="Cargando datos...."/>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+        <materialDesign:Badged Content="Badged" HorizontalAlignment="Left" Height="126" Margin="381,601,0,-220.333" Grid.Row="1" VerticalAlignment="Top" Width="15"/>
+    </Grid>
+
+    
+</Window>

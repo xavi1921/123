@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DBFONET_CIA_LTDA" Class="ConexionDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-73QE8D3\XAVIER;Initial Catalog=DBFONET_CIA_LTDA;Integrated Security=True" SettingsObjectName="Datos.Properties.Settings" SettingsPropertyName="DBFONET_CIA_LTDAConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.pa_EditarCliente" Method="pa_EditarCliente">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Nombres" Parameter="nombres" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Apellidos" Parameter="apellidos" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Correo" Parameter="correo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Telefono" Parameter="telefono" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Direccion" Parameter="direccion" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarCONTRATO_SERVICIO" Method="pa_EditarCONTRATO_SERVICIO">
+    <Parameter Name="ID_CONTRATO" Parameter="iD_CONTRATO" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ID_PLAN_MEGAS" Parameter="iD_PLAN_MEGAS" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ID_INSTALACION" Parameter="iD_INSTALACION" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarCORTE_RECONEXION" Method="pa_EditarCORTE_RECONEXION">
+    <Parameter Name="ID_CORTE_RECONEXION" Parameter="iD_CORTE_RECONEXION" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="FECHA_CORTE" Parameter="fECHA_CORTE" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Fecha_RECONEXION" Parameter="fecha_RECONEXION" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Observaciones" Parameter="observaciones" Type="System.String" DbType="VarChar(60)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarEmpleado" Method="pa_EditarEmpleado">
+    <Parameter Name="Cedula_Empleado" Parameter="cedula_Empleado" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Nombres" Parameter="nombres" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Apellidos" Parameter="apellidos" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Correo" Parameter="correo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Telefono" Parameter="telefono" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Direccion" Parameter="direccion" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Fecha_Nacimiento" Parameter="fecha_Nacimiento" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="ID_Tipo" Parameter="iD_Tipo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Fecha_Contrato" Parameter="fecha_Contrato" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Contraseña" Parameter="contraseña" Type="System.String" DbType="VarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarFacturacion" Method="pa_EditarFacturacion">
+    <Parameter Name="ID_FACTURACION" Parameter="iD_FACTURACION" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Cedula_Empleado" Parameter="cedula_Empleado" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ID_Contrato" Parameter="iD_Contrato" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ID_Corte_Reconexion" Parameter="iD_Corte_Reconexion" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Fecha_Pago" Parameter="fecha_Pago" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Total_Pago" Parameter="total_Pago" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarFECHA_PAGOS" Method="pa_EditarFECHA_PAGOS">
+    <Parameter Name="ID_PAGO" Parameter="iD_PAGO" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ID_INSTALACION" Parameter="iD_INSTALACION" Type="System.Int32" DbType="Int" />
+    <Parameter Name="FECHA_PAGO" Parameter="fECHA_PAGO" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="PLAZO_VENCIDO" Parameter="pLAZO_VENCIDO" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="OBSERVACIONES" Parameter="oBSERVACIONES" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarInstalacion" Method="pa_EditarInstalacion">
+    <Parameter Name="ID_Agendar_Instalacion" Parameter="iD_Agendar_Instalacion" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Fecha_Instalacion" Parameter="fecha_Instalacion" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Pendiente" Parameter="pendiente" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="Observaciones" Parameter="observaciones" Type="System.String" DbType="VarChar(60)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarPlanMegas" Method="pa_EditarPlanMegas">
+    <Parameter Name="ID_Tipo_Plan_Megas" Parameter="iD_Tipo_Plan_Megas" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Megas" Parameter="megas" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Costo" Parameter="costo" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EditarTipoEmpleado" Method="pa_EditarTipoEmpleado">
+    <Parameter Name="ID_Cargo" Parameter="iD_Cargo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Cargo" Parameter="cargo" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Descripcion" Parameter="descripcion" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarCliente" Method="pa_EliminarCliente">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarCONTRATO_SERVICIO" Method="pa_EliminarCONTRATO_SERVICIO">
+    <Parameter Name="ID_CONTRATO" Parameter="iD_CONTRATO" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarCORTE_RECONEXION" Method="pa_EliminarCORTE_RECONEXION">
+    <Parameter Name="ID_CORTE_RECONEXION" Parameter="iD_CORTE_RECONEXION" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarEmpleado" Method="pa_EliminarEmpleado">
+    <Parameter Name="Cedula_Empleado" Parameter="cedula_Empleado" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarFacturacion" Method="pa_EliminarFacturacion">
+    <Parameter Name="ID_FACTURACION" Parameter="iD_FACTURACION" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarFECHA_PAGOS" Method="pa_EliminarFECHA_PAGOS">
+    <Parameter Name="ID_PAGO" Parameter="iD_PAGO" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarInstalacion" Method="pa_EliminarInstalacion">
+    <Parameter Name="ID_Agendar_Instalacion" Parameter="iD_Agendar_Instalacion" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarPlanMegas" Method="pa_EliminarPlanMegas">
+    <Parameter Name="ID_Tipo_Plan_Megas" Parameter="iD_Tipo_Plan_Megas" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_EliminarTipoEmpleado" Method="pa_EliminarTipoEmpleado">
+    <Parameter Name="ID_Cargo" Parameter="iD_Cargo" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarCliente" Method="pa_InsertarCliente">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Nombres" Parameter="nombres" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Apellidos" Parameter="apellidos" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Correo" Parameter="correo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Telefono" Parameter="telefono" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Direccion" Parameter="direccion" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarCONTRATO_SERVICIO" Method="pa_InsertarCONTRATO_SERVICIO">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ID_PLAN_MEGAS" Parameter="iD_PLAN_MEGAS" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ID_INSTALACION" Parameter="iD_INSTALACION" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarCORTE_RECONEXION" Method="pa_InsertarCORTE_RECONEXION">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Fecha_CORTE" Parameter="fecha_CORTE" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Fecha_RECONEXION" Parameter="fecha_RECONEXION" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Observaciones" Parameter="observaciones" Type="System.String" DbType="VarChar(60)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarEmpleado" Method="pa_InsertarEmpleado">
+    <Parameter Name="Cedula_Empleado" Parameter="cedula_Empleado" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Nombres" Parameter="nombres" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Apellidos" Parameter="apellidos" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Correo" Parameter="correo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Telefono" Parameter="telefono" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Direccion" Parameter="direccion" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Fecha_Nacimiento" Parameter="fecha_Nacimiento" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="ID_Tipo" Parameter="iD_Tipo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Fecha_Contrato" Parameter="fecha_Contrato" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Contraseña" Parameter="contraseña" Type="System.String" DbType="VarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarFacturacion" Method="pa_InsertarFacturacion">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Cedula_Empleado" Parameter="cedula_Empleado" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ID_Contrato" Parameter="iD_Contrato" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ID_Corte_Reconexion" Parameter="iD_Corte_Reconexion" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Fecha_Pago" Parameter="fecha_Pago" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Total_Pago" Parameter="total_Pago" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarFECHA_PAGOS" Method="pa_InsertarFECHA_PAGOS">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ID_INSTALACION" Parameter="iD_INSTALACION" Type="System.Int32" DbType="Int" />
+    <Parameter Name="FECHA_PAGO" Parameter="fECHA_PAGO" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="PLAZO_VENCIDO" Parameter="pLAZO_VENCIDO" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="OBSERVACIONES" Parameter="oBSERVACIONES" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarInstalacion" Method="pa_InsertarInstalacion">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Fecha_Instalacion" Parameter="fecha_Instalacion" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Pendiente" Parameter="pendiente" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="Observaciones" Parameter="observaciones" Type="System.String" DbType="VarChar(60)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarPlanMegas" Method="pa_InsertarPlanMegas">
+    <Parameter Name="Megas" Parameter="megas" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Costo" Parameter="costo" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_InsertarTipoEmpleado" Method="pa_InsertarTipoEmpleado">
+    <Parameter Name="Cargo" Parameter="cargo" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Descripcion" Parameter="descripcion" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pa_MostrarCliente" Method="pa_MostrarCliente">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <ElementType Name="pa_MostrarClienteResult">
+      <Column Name="CEDULA_CLIENTE" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="NOMBRES" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="APELLIDOS" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CORREO" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TELEFONO" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DIRECCION" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarCONTRATO_SERVICIO" Method="pa_MostrarCONTRATO_SERVICIO">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <ElementType Name="pa_MostrarCONTRATO_SERVICIOResult">
+      <Column Name="ID_CONTRTATO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CEDULA_CLIENTE" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ID_PLAN_MEGAS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_INSTALACION" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarCORTE_RECONEXION" Method="pa_MostrarCORTE_RECONEXION">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="FECHA_CORTE" Parameter="fECHA_CORTE" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Fecha_RECONEXION" Parameter="fecha_RECONEXION" Type="System.DateTime" DbType="Date" />
+    <ElementType Name="pa_MostrarCORTE_RECONEXIONResult">
+      <Column Name="ID_CORTE_RECONEXION" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CEDULA_CLIENTE" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="FECHA_CORTE" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="FECHA_RECONEXION" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="OBSERVACIONES" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarEmpleado" Method="pa_MostrarEmpleado">
+    <Parameter Name="Cedula_Empleado" Parameter="cedula_Empleado" Type="System.String" DbType="VarChar(10)" />
+    <ElementType Name="pa_MostrarEmpleadoResult">
+      <Column Name="CEDULA_EMPLEADO" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="NOMBRES" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="APELLIDOS" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CORREO" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TELEFONO" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DIRECCION" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FECHA_NACIMIENTO" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ID_TIPO" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FECHA_CONTRATO" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="CONTRASEÑA" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarFacturacion" Method="pa_MostrarFacturacion">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Cedula_Empleado" Parameter="cedula_Empleado" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Fecha_Pago" Parameter="fecha_Pago" Type="System.DateTime" DbType="Date" />
+    <ElementType Name="pa_MostrarFacturacionResult">
+      <Column Name="ID_FACTURA" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CEDULA_CLIENTE" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="CEDULA_EMPLEADO" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ID_CONTRATO" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_CORTE_RECONEXION" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FECHA_PAGO" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TOTAL_PAGO" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarFECHA_PAGOS" Method="pa_MostrarFECHA_PAGOS">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <ElementType Name="pa_MostrarFECHA_PAGOSResult">
+      <Column Name="ID_PAGO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CEDULA_CLIENTE" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ID_INSTALACION" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FECHA_PAGO" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="PLAZO_VENCIDO" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="OBSERVACIONES" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarInstalaciones" Method="pa_MostrarInstalaciones">
+    <Parameter Name="Cedula_Cliente" Parameter="cedula_Cliente" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="FECHA_INSTALACION" Parameter="fECHA_INSTALACION" Type="System.DateTime" DbType="Date" />
+    <ElementType Name="pa_MostrarInstalacionesResult">
+      <Column Name="ID_INSTALACION" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CEDULA_CLIENTE" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="FECHA_INSTALACION" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="PENDIENTE" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="OBSERVACIONES" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarPlanMegas" Method="pa_MostrarPlanMegas">
+    <Parameter Name="Megas" Parameter="megas" Type="System.String" DbType="VarChar(10)" />
+    <ElementType Name="pa_MostrarPlanMegasResult">
+      <Column Name="ID_PLAN_MEGAS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MEGAS" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="COSTO" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pa_MostrarTipoEmpleado" Method="pa_MostrarTipoEmpleado">
+    <Parameter Name="Cargo" Parameter="cargo" Type="System.String" DbType="VarChar(20)" />
+    <ElementType Name="pa_MostrarTipoEmpleadoResult">
+      <Column Name="ID_TIPO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CARGO" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="DESCRIPCION" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

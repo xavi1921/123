@@ -1,0 +1,248 @@
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe.config
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll.config
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csprojAssemblyReference.cache
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.g.cs
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.g.cs
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.cache
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.lref
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.baml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.g.resources
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.Properties.Resources.resources
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.GenerateResource.cache
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CopyComplete
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.exe
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.baml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.g.cs
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.xml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.baml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.baml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.g.cs
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.baml
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.lref
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.g.resources
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.Properties.Resources.resources
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.GenerateResource.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.exe
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csprojAssemblyReference.cache
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarCorteReconexion.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.cache
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.lref
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.exe
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe.config
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll.config
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.xml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarCorteReconexion.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.g.resources
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.Properties.Resources.resources
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.GenerateResource.cache
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CopyComplete
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFechaPago.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFechaPago.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFacturas.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarPlanMegas.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarUsuario.g.cs
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFacturas.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarPlanMegas.baml
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarUsuario.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Datos.dll.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\Dragablz.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarCorteReconexion.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFacturas.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFechaPago.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarPlanMegas.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarUsuario.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.lref
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\App.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\MainWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarCorteReconexion.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFacturas.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFechaPago.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarPlanMegas.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarUsuario.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.g.resources
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.Properties.Resources.resources
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.GenerateResource.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.exe
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.exe
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\FONET_CIA_LTDA.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Dragablz.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Datos.dll.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Dragablz.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\Dragablz.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\MaterialDesignColors.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\MainWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\AdminPage.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarCorteReconexion.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarClienteWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFacturas.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFechaPago.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarPlanMegas.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarUsuario.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\LoginWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\PrincipalWindow.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\App.g.cs
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA_MarkupCompile.lref
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\App.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\MainWindow.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarContratoServicio.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarCorteReconexion.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarEmpleado.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFacturas.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarFechaPago.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarInstalacion.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarPlanMegas.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\InsertarUsuario.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\Presentacion\RecuperarPassword.baml
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.g.resources
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.Properties.Resources.resources
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.GenerateResource.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.exe
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\FONET_CIA_LTDA\obj\Debug\FONET_CIA_LTDA.pdb

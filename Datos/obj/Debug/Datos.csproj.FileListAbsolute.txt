@@ -1,0 +1,58 @@
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll.config
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Datos.pdb
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.dll
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.pdb
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.dll
+C:\Users\brand\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\bin\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_R1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll.config
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Datos.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.dll
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.pdb
+C:\Users\Rober\source\repos\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll.config
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\bin\Debug\Datos.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.pdb
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.dll
+C:\Users\Rober\Desktop\Fonet docs\FONET_CIA_LTDA_V0.0.1\FONET_CIA_LTDA\Datos\obj\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\bin\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\bin\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\obj\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA\Datos\obj\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\bin\Debug\Datos.dll.config
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\bin\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\bin\Debug\Datos.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\bin\Debug\Entidades.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\bin\Debug\Entidades.pdb
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\obj\Debug\Datos.dll
+C:\Users\brand\Downloads\FONET_CIA_LTDA_V0.0.9\FONET_CIA_LTDA - copia\Datos\obj\Debug\Datos.pdb
